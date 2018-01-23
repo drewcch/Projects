@@ -1,5 +1,4 @@
-#Andrew Chien, 75644982
-#Xinhao Liang, 62113399
+#Andrew Chien
 
 import connectfour
 import connectfour_modules

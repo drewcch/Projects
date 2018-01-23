@@ -1,4 +1,4 @@
-# connectfour.py
+#Andrew Chien
 
 '''
 This module contains the game logic that underlies a Connect Four

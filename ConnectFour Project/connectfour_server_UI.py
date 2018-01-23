@@ -1,4 +1,4 @@
-#Andrew Chien, 75644982
+#Andrew Chien
 
 import connectfour_server_protocol
 import connectfour
