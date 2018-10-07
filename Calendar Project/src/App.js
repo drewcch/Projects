@@ -10,7 +10,7 @@ class App extends Component {
           <div id="logo">
             <span className="icon">calendar_today</span>
             <span>
-              React <b>Calendar</b>
+              <b>Calendar</b>
             </span>
           </div>
         </header>

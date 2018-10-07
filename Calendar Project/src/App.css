@@ -24,7 +24,7 @@
 /* VARIABLES */
 
 :root {
-  --main-color: #1a8fff;
+  --main-color: #ff3c1a;
   --text-color: #777;
   --text-color-light: #ccc;
   --border-color: #eee;
@@ -248,7 +248,7 @@ main {
 
 .calendar .body .selected {
   border-left: 10px solid transparent;
-  border-image: linear-gradient(45deg, #1a8fff 0%, #53cbf1 40%);
+  border-image: linear-gradient(45deg, #ff3c1a 0%, #e49090 40%);
   border-image-slice: 1;
 }
 
