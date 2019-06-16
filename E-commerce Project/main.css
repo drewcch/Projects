@@ -1,0 +1,86 @@
+* {
+	font-family: Verdana;
+	background-color: #191970;
+	color: white;
+	text-align: center;
+}
+
+.topnav {
+	overflow: hidden;
+}
+
+.topnav a {
+ 	float: left;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+  	font-size: 17px;
+  	font-weight: bold;
+}
+
+.topnav a:hover {
+  	background-color: #ddd;
+  	color: black;
+}
+
+.topnav a.active {
+  	background-color: #800000;
+  	color: white;
+}
+
+.home p {
+	font-size: 16px;
+}
+
+.home .management h3 {
+	color: #FFD700;
+}
+
+.phone-table {
+	table-layout: fixed;
+	border-spacing: 0 10px;
+}
+
+.phone-table tr th {
+	color: #FFD700;
+}
+
+.product:hover {
+  	-ms-transform: scale(1.5); 
+  	-webkit-transform: scale(1.5); 
+  	transform: scale(1.5); 
+}
+
+th {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.detailed-descriptions h1 {
+	color: #FFD700;
+}
+
+.detailed-descriptions p {
+	color: #87CEEB;
+}
+
+.confirmation h1 {
+	color: #FFD700;
+}
+
+.confirmation p {
+	color: #87CEEB;
+}
+
+form input {
+	text-align: left;
+}
+
+#display-order {
+	border: 2px; 
+	border-style: solid; 
+	border-color: black; 
+	padding: 0.7em;
+	display: inline;
+	background-color: #4B0082;
+}
